@@ -1,0 +1,6 @@
+```
+Pseudo : {}
+Grade actuel : Agent
+Rétrogradation au poste : ø
+Motif : Inactif
+```

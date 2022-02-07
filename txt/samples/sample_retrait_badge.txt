@@ -1,0 +1,4 @@
+Merci de retirer les badges des agents suivants svp :
+```
+{}
+```
